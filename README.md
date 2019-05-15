@@ -1,5 +1,5 @@
 # python-3-bootcamp
-Tests and assignments for Python 3
+Tests and assignments exercises for Python 3
 
 ## Getting started
 
