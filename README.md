@@ -12,8 +12,7 @@ Active env
 `conda activate bootcamp`
 
 Run 
-```
-jupyter notebook```
+```jupyter notebook```
 
 
 ## Source
