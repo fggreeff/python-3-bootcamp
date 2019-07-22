@@ -38,6 +38,14 @@ These steps should be familiar if you're familiar with python; if you're not, he
 Run jupyter (.ipynb extensions)
 ```jupyter notebook```
 
+### Pylint checks
+Pylint checks for bugs and code quality. It follows the style recommended by PEP 8, the Python style guide. 
+How to check your code for pylint issues. 
+
+1) Run `pylint somefile.py` or `pylint -ry somefile.py` (for full report)
+2) Fix all the issues reported by pylint
+3) Re-run `pylint somefile.py`
+4) Aim for a score of 10/10 
 
 ## Source
 
