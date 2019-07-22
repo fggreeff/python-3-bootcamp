@@ -1,3 +1,8 @@
+'''
+This file containts text helpers
+'''
+
+
 def cap_text(text):
     '''
     Input a string
