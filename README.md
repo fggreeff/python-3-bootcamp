@@ -34,6 +34,9 @@ These steps should be familiar if you're familiar with python; if you're not, he
 - Install the project into that virtualenv in development mode: `pip3 install -e .`
 - Use `deactivate` to leave the virtual environment.
 
+### Useful schortcuts
+- Use `shift`+`tab` to get a description on functions
+
 ### Running code
 Run jupyter (.ipynb extensions)
 ```jupyter notebook```
